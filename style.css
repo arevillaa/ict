@@ -77,7 +77,7 @@ section {
 
 #joker {
     background-color: purple;
-    color: green;
+    color: #79F279;
     padding: 25px;
     border-radius: 10px;
 }
@@ -89,7 +89,7 @@ section {
 }
 
 #robin h2 {
-    color: green;
+    color: #2D912D;
     font-size: 1.8rem;
 }
 
@@ -124,3 +124,4 @@ h2 {
         font-size: 1.6rem;
     }
 }
+
